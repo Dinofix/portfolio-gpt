@@ -488,6 +488,7 @@ h3 {
     background-color: var(--blue-100);
     border-radius: 30px;
     padding: 30px;
+    gap: 30px;
     display: flex;
     @media (max-width: 1024px) {
       flex-direction: column;
@@ -519,6 +520,15 @@ h3 {
             display: flex;
             align-items: center;
             gap: 15px;
+
+            &:nth-child(even) {
+              text-align: right;
+              justify-content: flex-end;
+              flex-direction: row-reverse;
+              span {
+                background-color: var(--yellow);
+              }
+            }
             span {
               background-color: var(--blue-400);
               width: 64px;
@@ -527,14 +537,44 @@ h3 {
               display: inline-flex;
               align-items: center;
               justify-content: center;
+              @media (max-width: 768px) {
+                width: 48px;
+                height: 48px;
+              }
             }
             div {
-              
+              flex: 1;
             }
           }
         }
       }
+
+      .chat-message {
+        display: flex;
+        margin-top: 15px;
+        gap: 15px;
+        input {
+          border-radius: 10px;
+          flex: 1;
+          padding: 15px;
+          border: 1px solid transparent;
+          background-color: var(--base-100);
+          &:hover {
+            outline: none;
+            background-color: white;
+            border: 1px solid var(--base-100)
+          }
+          &:focus {
+            outline: none;
+            background-color: white;
+            border: 1px solid var(--base-100)
+          }
+        }
+        button {
+          border: none;
+          cursor: pointer;
+        }
+      }
     }
-    
   }
 }
