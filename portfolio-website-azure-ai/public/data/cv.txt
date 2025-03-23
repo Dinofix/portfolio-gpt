@@ -1,0 +1,72 @@
+Name: Adnan Ajdinovic  
+Title: Fullstack Developer Student  
+Contact: hej@adnan.nu | 073–546 36 59 | adnan.nu | github.com/Dinofix | LinkedIn: linkedin.com/in/adnan-a-9432061b6  
+
+Profile:  
+Experienced and enthusiastic problem solver with over 14 years of hands-on experience making things work. Skilled in soldering, access control, 3D printing, RFID, and identification systems. Currently transitioning to Full Stack Development through studies at Medieinstitutet and open for opportunities from summer 2025.
+
+---
+
+Skills:  
+Frontend: HTML, CSS, JavaScript, React, Angular, Vue  
+Backend: Node.js, Express, Java, Python, PHP, Ruby  
+Tools & Methods: TypeScript, Git, WordPress, WooCommerce, SQL, Payment Solutions, Pair Programming, Agile Methods  
+Other tech: IntelliJ IDEA, Spring Boot, Maven, React Native, C/C++, Expo, Android .APK
+
+Languages:  
+- Swedish (native)  
+- English (fluent)  
+- Serbian (good understanding)
+
+---
+
+Work Experience:
+
+• Fullstack Developer (Internship)  
+Company: Consid AB | Jan 2025 – Present  
+- Team of four students developing a room booking system for the Helsingborg office  
+- Android app integrated with Office 365 calendars  
+- Responsible for fullstack development and hardware prototyping  
+- Used skills in embedded systems and 3D printing  
+
+• Fullstack Developer (Internship)  
+Company: Technology Nexus | Sep 2024 – Nov 2024  
+- Developed frontend/backend for Nexus Go Cards – an internal staff card ordering system  
+- Created a new toggling system in the operator UI  
+- Participated in the card production process  
+
+• Senior Service Technician  
+Company: Technology Nexus | Apr 2013 – Present  
+- Customer support onsite and remotely  
+- Hardware and software maintenance  
+- Logistics, storage, sales and product training  
+- Known for strong self-management and taking initiative  
+
+• System Technician  
+Company: Swedish Armed Forces – HMS Orion | Jan 2011 – Apr 2013  
+- Responsible for technical equipment aboard the ship  
+- Planned long deployments at sea  
+- Managed critical maintenance independently
+
+• Repairer / Hardware Modder (Freelance)  
+Dinofix | 2013 – Present  
+- Repairs and custom modifications for electronics  
+- Work includes 3D design, 3D printing, console modding and PCB design  
+- Hobby that mixes creativity with deep technical skills
+
+---
+
+Education:
+
+• Fullstack Developer  
+Medieinstitutet | Aug 2023 – May 2025  
+Program: Fullstack Developer (400 YH credits)  
+
+• GMU + Technical Training  
+Swedish Armed Forces | Jan 2010 – Dec 2010  
+- Basic military training (3 months)  
+- Systems technician specialization (9 months)  
+
+• High School – Technical Program  
+Allvar Gullstrandgymnasiet | Aug 2006 – Jun 2009  
+- Focus: Computer Technology  

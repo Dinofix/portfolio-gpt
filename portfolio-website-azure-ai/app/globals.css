@@ -304,6 +304,8 @@ h3 {
     .left-column {
       flex: 1;
       ul {
+        display: flex;
+        flex-wrap: wrap;
         list-style-type: none;
         gap: 10px;
         margin-right: 100px;
@@ -546,6 +548,12 @@ h3 {
           }
         }
       }
+
+      .chat-box .scroll-area {
+        max-height: 300px;
+        overflow-y: auto;
+        padding-right: 8px;
+      }      
 
       .chat-message {
         display: flex;
