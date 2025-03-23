@@ -14,7 +14,7 @@ export default function Home() {
     {
       role: "bot",
       message:
-        "Hi, I'm a friendly chatbot that knows Adnan's skills, experience and CV. Ask me anything!",
+        "Hej! Jag kan allt om Adnans CV och erfarenhet – vad vill du veta?",
     },
   ]);
 
@@ -58,22 +58,22 @@ export default function Home() {
       <header>
         <a href="#" className="logo-holder">
           <div className="logo">L</div>
-          <div className="logo-text">Portfolio Website</div>
+          <div className="logo-text">Portföljsida</div>
         </a>
         <nav>
           <ul id="menu" className={menuOpen ? "active" : ""}>
             <li>
-              <a href="#">Home</a>
+              <a href="#">Hem</a>
             </li>
             <li>
-              <a href="#skills">Skills</a>
+              <a href="#skills">Färdigheter</a>
             </li>
             <li>
-              <a href="#projects">Projects</a>
+              <a href="#projects">Projekt</a>
             </li>
             <li>
               <a href="mailto:hej@adnan.nu" className="button">
-                Contact Me
+              Kontakta mig
               </a>
             </li>
           </ul>
@@ -101,31 +101,34 @@ export default function Home() {
         <section className="hero container">
           <div className="hero-blue">
             <h1>
-              <small>Hi I'm</small>
+              <small>Hej! Jag heter</small>
               Adnan Ajdinovic
             </h1>
             <p>
-            a curious and hands-on fullstack developer based in Sweden.
-            I love solving real-world problems – 
-            I’ve been doing that in one way or another for over 14 years.
+              Jag är en nyfiken och praktisk person som gillar
+              att bygga saker – både digitalt och fysiskt.  
+              Numera jobbar jag med fullstackutveckling, men jag
+              har alltid haft ett intresse för både teknik och problemlösning.
             </p>
-            <br></br>
+            <br />
             <p>
-            Whether it’s embedded hardware, access control systems, 
-            or a full React app, I enjoy building things that just work.
-            I also share what I learn through content and side projects,
-            especially when it comes to AI and tools like ChatGPT.
+              Genom åren har jag pysslat med allt från inbyggd
+              hårdvara och passersystem till att bygga appar i React.  
+              Jag gillar när jag får saker att funka, och jag tycker
+              det är kul att dela med mig av det jag lär mig –
+              särskilt inom AI och smarta verktyg som ChatGPT.
             </p>
+
             <div className="call-to-action">
               <a
                 href="./Adnan Ajdinovic - CV 2025.pdf"
                 className="button black"
               >
-                View Resume
+                Visa CV
               </a>
               <a href="mailto:hej@adnan.nu" className="button white">
                 {" "}
-                Contact Me{" "}
+                Kontakta mig{" "}
               </a>
             </div>
             <div className="social-links">
@@ -150,29 +153,29 @@ export default function Home() {
             <div className="track">
               <img src="./imgs/html.png" alt="HTML" width="128" />
               <img src="./imgs/css.png" alt="CSS" width="128" />
-              <img src="./imgs/javascript.png" alt="JS" width="128" />
+              <img src="./imgs/typescript.png" alt="TS" width="128" />
               <img src="./imgs/sass.png" alt="Sass" width="128" />
               <img src="./imgs/react.png" alt="React" width="128" />
-              <img src="./imgs/nextjs.png" alt="Next JS" width="128" />
-              <img src="./imgs/azure.png" alt="Azure" width="128" />
+              <img src="./imgs/C.png" alt="C" width="128" />
+              <img src="./imgs/node.png" alt="Node" width="128" />
               <img src="./imgs/vscode.png" alt="VS Code" width="128" />
-              <img src="./imgs/python.png" alt="Python" width="128" />
+              <img src="./imgs/php.png" alt="PHP" width="128" />
               <img src="./imgs/html.png" alt="HTML" width="128" />
               <img src="./imgs/css.png" alt="CSS" width="128" />
-              <img src="./imgs/javascript.png" alt="JS" width="128" />
+              <img src="./imgs/typescript.png" alt="TS" width="128" />
               <img src="./imgs/sass.png" alt="Sass" width="128" />
               <img src="./imgs/react.png" alt="React" width="128" />
-              <img src="./imgs/nextjs.png" alt="Next JS" width="128" />
-              <img src="./imgs/azure.png" alt="Azure" width="128" />
+              <img src="./imgs/C.png" alt="C" width="128" />
+              <img src="./imgs/node.png" alt="Node" width="128" />
               <img src="./imgs/vscode.png" alt="VS Code" width="128" />
-              <img src="./imgs/python.png" alt="Python" width="128" />
+              <img src="./imgs/php.png" alt="PHP" width="128" />
             </div>
           </div>
         </section>
         <section id="skills" className="skills container">
           <h2>
-            <small>About Me</small>
-            Skills
+            <small>Om Mig</small>
+            Färdigheter
           </h2>
           <div className="holder-blue">
             <div className="left-column">
@@ -182,41 +185,49 @@ export default function Home() {
                 <li>CSS</li>
                 <li>Javascript</li>
                 <li>React</li>
-                <li>Angular</li>
-                <li>Vue</li>
+                <li>React Native</li>
+                <li>WooCommerce</li>
+                <li>Wordpress</li>
+                <li>TypeScript</li>
               </ul>
               <h3>Backend</h3>
               <ul>
                 <li>Node.js</li>
                 <li>Express</li>
-                <li>Python</li>
-                <li>Java</li>
+                <li>SQL</li>
+                <li>C</li>
                 <li>PHP</li>
-                <li>Ruby</li>
+                <li>SQL</li>
               </ul>
             </div>
             <div className="right-column">
-              <h3>A bit about me</h3>
-              <p>
-              I’m currently studying fullstack development at Medieinstitutet
-              and doing internships where I get to apply what I learn in real
-              projects. My background is a mix of creative problem-solving and
-              deep tech – from soldering and RFID to web APIs and React Native.
-              </p>
-              <p>
-              I’ve worked in the security industry for over a decade, and
-              I’ve recently transitioned into software. Thanks to my hands-on 
-              experience and curiosity, I often bring ideas that blend both 
-              hardware and code. I'm especially drawn to embedded projects,
-              Raspberry Pi, 3D printing, and tools that make development smoother.
-              </p>
+            <h3>Lite om mig</h3>
+            <p>
+              Just nu studerar jag fullstackutveckling
+              på Medieinstitutet och gör praktik där
+              jag får använda det jag lär mig i riktiga
+              projekt. Min bakgrund är en blandning av
+              kreativ problemlösning och teknik på djupet
+              – allt från lödning och RFID till webb-API:er
+              och React Native.
+            </p>
+            <p>
+              Jag har jobbat inom säkerhetsbranschen i
+              över tio år, men har nyligen styrt om mot
+              mjukvaruutveckling. Tack vare min praktiska
+              erfarenhet och nyfikenhet har jag ofta idéer
+              som kombinerar både hårdvara och kod. Jag
+              dras särskilt till inbyggda projekt, Raspberry Pi,
+              3D-printing och verktyg som gör utveckling smidigare.
+            </p>
             </div>
           </div>
         </section>
         <section className="work-experience container">
           <h2>
-            <small>Recent</small>
-            Work Experience
+          <small>Senaste</small>
+          Vad jag jobbat med
+
           </h2>
           <div className="jobs">
             <article>
@@ -227,14 +238,15 @@ export default function Home() {
                     alt="Workplace 1 - YouTube Creator"
                     width="100%"
                   />
-                  <figcaption>Workplace - 1 YouTube Creator</figcaption>
+                  <figcaption>FULLSTACK DEVELOPER (LIA)</figcaption>
                 </div>
               </figure>
-              <h3>YouTube Content Creator</h3>
-              <div>2020-current</div>
+              <h3>FULLSTACK DEVELOPER (LIA)</h3>
+              <div>2025-pågående</div>
               <p>
-                Content creation online teaching people about how to code using
-                HTML, CSS, JS.
+              På Consid är jag med och bygger ett bokningssystem för
+              deras konferensrum, där vi jobbar med React Native,
+              CI/CD och serverhantering.
               </p>
             </article>
             <article>
@@ -245,14 +257,15 @@ export default function Home() {
                     alt="Workplace 2 - Moshi Moshi Marketing"
                     width="100%"
                   />
-                  <figcaption>Workplace - Moshi Moshi Marketing</figcaption>
+                  <figcaption>SENIOR SERVICETEKNIKER</figcaption>
                 </div>
               </figure>
-              <h3>Moshi Moshi Marketing</h3>
-              <div>20018-2020</div>
+              <h3>SENIOR SERVICETEKNIKER</h3>
+              <div>2013-pågående</div>
               <p>
-                Marketing agency building websites and programming them from the
-                ground up.
+              På Nexus har jag en bred roll där jag jobbar med kundsupport,
+              service, logistik och utbildning – både på plats och på distans,
+              med fokus på både hårdvara och mjukvara.
               </p>
             </article>
             <article>
@@ -263,25 +276,26 @@ export default function Home() {
                     alt="Workplace 3 - Chamber of Commerce"
                     width="100%"
                   />
-                  <figcaption>Workplace - Chamber of Commerce</figcaption>
+                  <figcaption>REPARATÖR / MODDARE</figcaption>
                 </div>
               </figure>
-              <h3>Chamber of Commerce</h3>
-              <div>2013-2018</div>
+              <h3>REPARATÖR / MODDARE</h3>
+              <div>2010-pågående</div>
               <p>
-                A small to large business organisation that helps facilitate
-                advice and support.
+              På fritiden reparerar och modifierar jag elektronik – allt från
+              3D-design och utskrifter till att bygga om gamla konsoler och
+              skapa egna kretskort, vilket låter mig kombinera teknik med kreativitet.
               </p>
             </article>
           </div>
         </section>
         <section id="projects" className="bento container">
           <h2>
-            <small> Previous </small>
-            Completed Projects
+            <small>Tidigare</small>
+            Avslutade projekt
           </h2>
           <div className="bento-grid">
-            <a href="#" className="bento-item">
+            {/* <a href="#" className="bento-item">
               <img src="./imgs/bento-1.jpg" alt="BGCCI" width="100%" />
             </a>
             <a href="#" className="bento-item">
@@ -295,7 +309,7 @@ export default function Home() {
             </a>
             <a href="#" className="bento-item">
               <img src="./imgs/bento-6.jpg" alt="Running" width="100%" />
-            </a>
+            </a> */}
             <a href="#" className="bento-item">
               <img src="./imgs/bento-7.jpg" alt="School" width="100%" />
             </a>
@@ -303,29 +317,31 @@ export default function Home() {
         </section>
         <section className="chatbot container">
           <h2>
-            <small> Talk to me </small>
+            <small> Prata med mig </small>
             Chatbot
           </h2>
           <div className="chatbot-blue">
             <div className="chat-info">
-              <h3>Azure AI Chatbot</h3>
-              <p>
-                I've put together a chatbot here which knows all my skills, work
-                experience and has a copy of my CV/Resume. You can use it to ask
-                questions about me to get a better idea of who I am and what
-                I've done.
-              </p>
-              <p>
-                You can also download my resume here if you want to take a look
-                at it. I'm currently looking for new opportunities so if you
-                have a project you think I'd be a good fit for, please get in
-                touch!
-              </p>
+            <h3>Chatbot byggd med AI</h3>
+            <p>
+              Här har jag satt ihop en chatbot som känner
+              till mina färdigheter, erfarenheter och har
+              tillgång till mitt CV. Du kan ställa frågor
+              om mig för att få en bättre bild av vem jag
+              är och vad jag har gjort.
+            </p>
+            <p>
+              Du kan också ladda ner mitt CV här om du vill
+              kika närmare. Jag letar just nu efter nya
+              möjligheter – så om du har ett projekt där du
+              tror att jag skulle passa, hör gärna av dig!
+            </p>
+
               <a
                 href="./Adnan Ajdinovic - CV 2025.pdf"
                 className="button black"
               >
-                Download Resume
+                Ladda ner CV
               </a>
             </div>
             <div className="chat-box">
@@ -342,7 +358,7 @@ export default function Home() {
                   {loading && (
                     <li>
                       <span className="avatar bot">AI</span>
-                      <div className="message">Typing...</div>
+                      <div className="message">Skriver...</div>
                     </li>
                   )}
                   
@@ -354,14 +370,14 @@ export default function Home() {
                   value={input}
                   onChange={(e) => setInput(e.target.value)}
                   onKeyDown={(e) => e.key === "Enter" && sendMessage()}
-                  placeholder="Hey Adnan, what skills are you best at?"
+                  placeholder="Har du några drömmar eller planer för 2025?"
                 />
                 <button
                   className="button black"
                   onClick={sendMessage}
                   disabled={loading}
                 >
-                  Send
+                  Skicka
                 </button>
               </div>
             </div>

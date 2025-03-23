@@ -1,26 +1,37 @@
-Name: Adnan Ajdinovic  
-Title: Fullstack Developer Student  
-Contact: hej@adnan.nu | 073–546 36 59 | adnan.nu | github.com/Dinofix | LinkedIn: linkedin.com/in/adnan-a-9432061b6  
-
-Profile:  
-Experienced and enthusiastic problem solver with over 14 years of hands-on experience making things work. Skilled in soldering, access control, 3D printing, RFID, and identification systems. Currently transitioning to Full Stack Development through studies at Medieinstitutet and open for opportunities from summer 2025.
+Name / Namn: Adnan Ajdinovic  
+Title / Titel: Fullstack Developer Student / Fullstackutvecklare (student)  
+Contact / Kontakt: hej@adnan.nu | 073–546 36 59 | adnan.nu | github.com/Dinofix | LinkedIn: linkedin.com/in/adnan-a-9432061b6  
 
 ---
 
-Skills:  
+Profile / Profil:  
+Experienced and enthusiastic problem solver with over 14 years of hands-on experience making things work. Skilled in soldering, access control, 3D printing, RFID, and identification systems. Currently transitioning to Full Stack Development through studies at Medieinstitutet and open for opportunities from summer 2025.
+
+Erfaren och nyfiken problemlösare med över 14 års praktisk erfarenhet av att få saker att fungera. Van vid lödning, passersystem, 3D-skrivare, RFID och identifieringslösningar. Studerar just nu till fullstackutvecklare på Medieinstitutet och är öppen för nya möjligheter från sommaren 2025.
+
+---
+
+Skills / Kompetens:  
 Frontend: HTML, CSS, JavaScript, React, Angular, Vue  
 Backend: Node.js, Express, Java, Python, PHP, Ruby  
 Tools & Methods: TypeScript, Git, WordPress, WooCommerce, SQL, Payment Solutions, Pair Programming, Agile Methods  
 Other tech: IntelliJ IDEA, Spring Boot, Maven, React Native, C/C++, Expo, Android .APK
 
-Languages:  
-- Swedish (native)  
-- English (fluent)  
-- Serbian (good understanding)
+Frontend: HTML, CSS, JavaScript, React, Angular, Vue  
+Backend: Node.js, Express, Java, Python, PHP, Ruby  
+Verktyg & metoder: TypeScript, Git, WordPress, WooCommerce, SQL, Betallösningar, Parprogrammering, Agila metoder  
+Övrigt: IntelliJ IDEA, Spring Boot, Maven, React Native, C/C++, Expo, Android .APK
 
 ---
 
-Work Experience:
+Languages / Språk:  
+- Swedish (native) / Svenska (modersmål)  
+- English (fluent) / Engelska (flytande)  
+- Serbian (good understanding) / Serbiska (god förståelse)
+
+---
+
+Work Experience / Arbetslivserfarenhet:
 
 • Fullstack Developer (Internship)  
 Company: Consid AB | Jan 2025 – Present  
@@ -29,11 +40,22 @@ Company: Consid AB | Jan 2025 – Present
 - Responsible for fullstack development and hardware prototyping  
 - Used skills in embedded systems and 3D printing  
 
+Fullstackutvecklare (LIA) – Consid AB | Jan 2025 – pågående  
+- Vi är ett team på fyra studenter som utvecklar ett bokningssystem för konferensrummen i Helsingborg  
+- Android-app som synkroniseras med Office 365  
+- Jag ansvarar för både frontend/backend och prototypframtagning  
+- Använder kunskaper inom embedded-utveckling och 3D-printing
+
 • Fullstack Developer (Internship)  
 Company: Technology Nexus | Sep 2024 – Nov 2024  
 - Developed frontend/backend for Nexus Go Cards – an internal staff card ordering system  
 - Created a new toggling system in the operator UI  
 - Participated in the card production process  
+
+Fullstackutvecklare (LIA) – Technology Nexus | Sep 2024 – Nov 2024  
+- Arbetade med Nexus Go Cards, där anställda beställer personal-ID  
+- Skapade ny toggling-lösning i operatörsgränssnittet  
+- Deltog även i den fysiska kortproduktionen
 
 • Senior Service Technician  
 Company: Technology Nexus | Apr 2013 – Present  
@@ -42,11 +64,22 @@ Company: Technology Nexus | Apr 2013 – Present
 - Logistics, storage, sales and product training  
 - Known for strong self-management and taking initiative  
 
+Senior servicetekniker – Technology Nexus | Apr 2013 – pågående  
+- Kundsupport både på plats och via fjärrsupport  
+- Underhåll av hårdvara/mjukvara, ansvar för logistik och lager  
+- Utbildat kunder i nya produkter och funktioner  
+- Självgående och van att ta initiativ
+
 • System Technician  
 Company: Swedish Armed Forces – HMS Orion | Jan 2011 – Apr 2013  
 - Responsible for technical equipment aboard the ship  
 - Planned long deployments at sea  
 - Managed critical maintenance independently
+
+Systemtekniker – Försvarsmakten, HMS Orion | Jan 2011 – Apr 2013  
+- Ansvarade för teknisk utrustning ombord  
+- Planerade långvariga sjöuppdrag  
+- Självständig hantering av reparationer och service
 
 • Repairer / Hardware Modder (Freelance)  
 Dinofix | 2013 – Present  
@@ -54,19 +87,33 @@ Dinofix | 2013 – Present
 - Work includes 3D design, 3D printing, console modding and PCB design  
 - Hobby that mixes creativity with deep technical skills
 
+Reparatör / Moddare (Frilans) – Dinofix | 2013 – pågående  
+- Reparerar och modifierar trasig elektronik  
+- Arbetar med 3D-design, konsolmoddning, och skräddarsydda kretskort  
+- En hobby som kombinerar kreativitet och tekniskt djup
+
 ---
 
-Education:
+Education / Utbildning:
 
 • Fullstack Developer  
 Medieinstitutet | Aug 2023 – May 2025  
 Program: Fullstack Developer (400 YH credits)  
+
+Fullstackutvecklare – Medieinstitutet | Aug 2023 – Maj 2025  
+400 YH-poäng, pågående utbildning
 
 • GMU + Technical Training  
 Swedish Armed Forces | Jan 2010 – Dec 2010  
 - Basic military training (3 months)  
 - Systems technician specialization (9 months)  
 
+GMU + Befattningsutbildning – Försvarsmakten | Jan 2010 – Dec 2010  
+- 3 månader grundläggande militär utbildning  
+- 9 månader systemteknikerutbildning
+
 • High School – Technical Program  
 Allvar Gullstrandgymnasiet | Aug 2006 – Jun 2009  
 - Focus: Computer Technology  
+
+Gymnasiet – Teknikprogrammet, IT-inriktning | 2006 – 2009
