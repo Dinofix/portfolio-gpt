@@ -102,21 +102,21 @@ export default function Home() {
           <div className="hero-blue">
             <h1>
               <small>Hej! Jag heter</small>
-              Adnan Ajdinovic
+              Adnan
             </h1>
             <p>
-              Jag är en nyfiken och praktisk person som gillar
-              att bygga saker – både digitalt och fysiskt.  
-              Numera jobbar jag med fullstackutveckling, men jag
-              har alltid haft ett intresse för både teknik och problemlösning.
+            Jag är en nyfiken och praktiskt lagd utvecklare som
+            gillar att bygga saker – både digitalt och fysiskt.
+            Teknik och problemlösning har alltid varit min grej,
+            och idag jobbar jag med fullstackutveckling där jag
+            får kombinera kreativitet, logik och struktur.
             </p>
             <br />
             <p>
-              Genom åren har jag pysslat med allt från inbyggd
-              hårdvara och passersystem till att bygga appar i React.  
-              Jag gillar när jag får saker att funka, och jag tycker
-              det är kul att dela med mig av det jag lär mig –
-              särskilt inom AI och smarta verktyg som ChatGPT.
+            Jag gillar att förstå hur saker funkar, och sen förbättra
+            dem. Oavsett om det handlar om att bygga något nytt eller
+            göra ett befintligt system smartare, så drivs jag av
+            nyfikenhet och viljan att skapa något som faktiskt gör nytta.
             </p>
 
             <div className="call-to-action">
@@ -203,22 +203,19 @@ export default function Home() {
             <div className="right-column">
             <h3>Lite om mig</h3>
             <p>
-              Just nu studerar jag fullstackutveckling
-              på Medieinstitutet och gör praktik där
-              jag får använda det jag lär mig i riktiga
-              projekt. Min bakgrund är en blandning av
-              kreativ problemlösning och teknik på djupet
-              – allt från lödning och RFID till webb-API:er
-              och React Native.
+            Jag har jobbat med allt från att bygga webbappar
+            i React till att mecka med hårdvara på fritiden.
+            Det kan vara allt från att laga trasig elektronik
+            till att bygga egna lösningar med sensorer,
+            mikrokontrollers och 3D-printade delar. 
             </p>
             <p>
-              Jag har jobbat inom säkerhetsbranschen i
-              över tio år, men har nyligen styrt om mot
-              mjukvaruutveckling. Tack vare min praktiska
-              erfarenhet och nyfikenhet har jag ofta idéer
-              som kombinerar både hårdvara och kod. Jag
-              dras särskilt till inbyggda projekt, Raspberry Pi,
-              3D-printing och verktyg som gör utveckling smidigare.
+            På mjukvarusidan har jag bl.a. jobbat med JavaScript,
+            TypeScript, Node.js, PostgreSQL och Vite – och
+            jag gillar när jag får saker att bara funka.
+            Extra kul blir det när jag hittar smarta sätt
+            att förenkla eller automatisera saker, gärna
+            med hjälp av AI eller verktyg som ChatGPT.
             </p>
             </div>
           </div>
