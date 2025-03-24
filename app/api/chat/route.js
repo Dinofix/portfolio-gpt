@@ -15,16 +15,23 @@ export async function POST(req) {
 
   const cvPath = path.join(process.cwd(), "public", "data", "cv.txt");
   const cvText = fs.readFileSync(cvPath, "utf-8");
+  const today = new Date().toLocaleDateString("sv-SE", {
+    year: "numeric",
+    month: "long",
+    day: "numeric",
+  });
+  
 
   const messages = [
     {
       role: "system",
       content: `
-      Du är en vänlig och kunnig assistent som kan allt om Adnan Ajdinovic.  
+      Du är en vänlig och kunnig assistent som kan allt om Adnan Ajdinovic.
+      Dagens datum är ${today}.   
       Svara alltid på svenska, kortfattat och trevligt.  
       Använd en avslappnad ton, som om du pratar med någon som är nyfiken på honom och hans erfarenhet.  
       Besvara frågor baserat på hans CV, färdigheter och tidigare projekt.
-      Privata frågor undanbedes då detta är ett professionellt CV.
+      Privata frågor undanbedes då detta är ett professionellt CV, du får svara på allt som finns i CV.
     
       Här är några saker att känna till:
 
