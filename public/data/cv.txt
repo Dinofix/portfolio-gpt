@@ -1,7 +1,8 @@
 Name / Namn: Adnan Ajdinovic  
 Title / Titel: Fullstack Developer Student / Fullstackutvecklare (student)  
 Contact / Kontakt: hej@adnan.nu | 073–546 36 59 | adnan.nu | github.com/Dinofix | LinkedIn: linkedin.com/in/adnan-a-9432061b6  
-
+Age / Ålder: Born september 29th 1990 / Född 29:e september 1990
+Town / Stad: Lives in Malmö / Bor i Malmö
 ---
 
 Profile / Profil:  
