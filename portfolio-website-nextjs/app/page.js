@@ -350,7 +350,7 @@ export default function Home() {
                   {chatLog.map((entry, idx) => (
                     <li key={idx}>
                       <span className={`avatar ${entry.role}`}>
-                        {entry.role === "user" ? "You" : "AI"}
+                        {entry.role === "user" ? "Du" : "AI"}
                       </span>
                       <div className="message">{entry.message}</div>
                     </li>
@@ -370,7 +370,7 @@ export default function Home() {
                   value={input}
                   onChange={(e) => setInput(e.target.value)}
                   onKeyDown={(e) => e.key === "Enter" && sendMessage()}
-                  placeholder="Har du några drömmar eller planer för 2025?"
+                  placeholder="Skriv en fråga om Adnan"
                 />
                 <button
                   className="button black"
