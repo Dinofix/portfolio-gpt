@@ -341,7 +341,7 @@ export default function Home() {
                 href="./Adnan Ajdinovic - CV 2025.pdf"
                 className="button black"
               >
-                Ladda ner CVCV
+                Ladda ner CV
               </a>
             </div>
             <div className="chat-box">
