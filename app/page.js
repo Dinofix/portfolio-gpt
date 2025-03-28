@@ -296,18 +296,18 @@ export default function Home() {
               <img src="./imgs/bento-1.jpg" alt="imageSearch app" width="100%" />
             </a>
             <a href="https://yogabadet.vercel.app/" className="bento-item" target="_blank">
-              <img src="./imgs/bento-2.jpg" alt="Churhview" width="100%" />
+              <img src="./imgs/bento-2.jpg" alt="yogabadet" width="100%" />
             </a>
-            <a href="#" className="bento-item" target="_blank">
-              <img src="./imgs/bento-7.jpg" alt="Harley" width="100%" />
+            <a href="https://the-restaurant-three.vercel.app/" className="bento-item" target="_blank">
+              <img src="./imgs/bento-3.jpg" alt="theRestaurant" width="100%" />
             </a>
-            <a href="#" className="bento-item" target="_blank">
+            <a href="#" className="bento-item">
               <img src="./imgs/bento-7.jpg" alt="Bunbury" width="100%" />
             </a>
-            <a href="#" className="bento-item" target="_blank">
+            <a href="#" className="bento-item">
               <img src="./imgs/bento-7.jpg" alt="Running" width="100%" />
             </a>
-            <a href="#" className="bento-item" target="_blank">
+            <a href="#" className="bento-item">
               <img src="./imgs/bento-7.jpg" alt="School" width="100%" />
             </a>
           </div>
