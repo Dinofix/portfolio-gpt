@@ -132,10 +132,10 @@ export default function Home() {
               </a>
             </div>
             <div className="social-links">
-              <a href="https://github.com/Dinofix">
+              <a href="https://github.com/Dinofix" target="_blank">
                 <img src="./imgs/github.png" alt="GitHub" width="48" />
               </a>
-              <a href="https://www.linkedin.com/in/adnan-a-9432061b6/">
+              <a href="https://www.linkedin.com/in/adnan-a-9432061b6/" target="_blank">
                 <img src="./imgs/linkedin.png" alt="LinkedIn" width="48" />
               </a>
             </div>
