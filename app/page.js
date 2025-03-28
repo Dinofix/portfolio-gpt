@@ -292,22 +292,22 @@ export default function Home() {
             Avslutade projekt
           </h2>
           <div className="bento-grid">
-            {/* <a href="#" className="bento-item">
-              <img src="./imgs/bento-1.jpg" alt="BGCCI" width="100%" />
+            <a href="https://image-search-silk-delta.vercel.app" className="bento-item" target="_blank">
+              <img src="./imgs/bento-1.jpg" alt="imageSearch app" width="100%" />
             </a>
-            <a href="#" className="bento-item">
+            <a href="https://yogabadet.vercel.app/" className="bento-item" target="_blank">
               <img src="./imgs/bento-2.jpg" alt="Churhview" width="100%" />
             </a>
-            <a href="#" className="bento-item">
-              <img src="./imgs/bento-3.jpg" alt="Harley" width="100%" />
+            <a href="#" className="bento-item" target="_blank">
+              <img src="./imgs/bento-7.jpg" alt="Harley" width="100%" />
             </a>
-            <a href="#" className="bento-item">
-              <img src="./imgs/bento-5.jpg" alt="Bunbury" width="100%" />
+            <a href="#" className="bento-item" target="_blank">
+              <img src="./imgs/bento-7.jpg" alt="Bunbury" width="100%" />
             </a>
-            <a href="#" className="bento-item">
-              <img src="./imgs/bento-6.jpg" alt="Running" width="100%" />
-            </a> */}
-            <a href="#" className="bento-item">
+            <a href="#" className="bento-item" target="_blank">
+              <img src="./imgs/bento-7.jpg" alt="Running" width="100%" />
+            </a>
+            <a href="#" className="bento-item" target="_blank">
               <img src="./imgs/bento-7.jpg" alt="School" width="100%" />
             </a>
           </div>
